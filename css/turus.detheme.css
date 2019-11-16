@@ -759,6 +759,7 @@ BUTTON
   margin-bottom: 20px;
   color: #fff;
   font-size: 24px;
+  width: 160px;
 }
 
 .margin-bottom-2 {
@@ -767,7 +768,8 @@ BUTTON
 
 .micro-heading {
   font-family: Roboto, sans-serif;
-  color: #ff5c5c;
+  color: #F07539;
+  /*color: #ff5c5c;*/
   /*font-size: 11px;*/
   font-weight: 900;
   letter-spacing: 2px;
